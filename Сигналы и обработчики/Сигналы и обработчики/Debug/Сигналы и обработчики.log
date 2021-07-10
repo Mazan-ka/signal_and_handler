@@ -1,0 +1,12 @@
+﻿  cl_application.cpp
+  cl_base.cpp
+C:\Users\zufeg\source\repos\Сигналы и обработчики\Сигналы и обработчики\cl_base.cpp(128,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\zufeg\source\repos\Сигналы и обработчики\Сигналы и обработчики\cl_base.cpp(218,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\zufeg\source\repos\Сигналы и обработчики\Сигналы и обработчики\cl_base.cpp(219,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\zufeg\source\repos\Сигналы и обработчики\Сигналы и обработчики\cl_base.cpp(226,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\zufeg\source\repos\Сигналы и обработчики\Сигналы и обработчики\cl_base.cpp(240,12): warning C4018: <: несоответствие типов со знаком и без знака
+  cl_derived_1.cpp
+  cl_derived_2.cpp
+  Сигналы и обработчики.cpp
+  Создание кода...
+  Сигналы и обработчики.vcxproj -> C:\Users\zufeg\source\repos\Сигналы и обработчики\Debug\Сигналы и обработчики.exe
